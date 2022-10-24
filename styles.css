@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+body {
+    margin: 0;
+    background-color: #0d1117;
+    color: #ddd;
+}
+
+h1 {
+    font-family: 'Cookie', sans-serif;
+    font-size: 2.2em;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: 750;
+
+}
+
+#slide {
+    width: 100vw;
+    object-fit: cover;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
